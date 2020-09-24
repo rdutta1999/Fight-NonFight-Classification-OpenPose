@@ -22,7 +22,6 @@ The dataset images, along with the trained models can be found [here](https://dr
      ├─── scripts
      ├─── tf_pose
      ├─── models_info_imgs
-     ├─── openpose_output_imgs
      ├─── saved_models
      ├─── ..
      ├─── TrainPosePoints.csv
